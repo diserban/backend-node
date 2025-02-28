@@ -1,4 +1,4 @@
-#Node.js for front-end developers - Exercise Tracker 
+<h2>#Node.js for front-end developers - Exercise Tracker </h2>
 
 Instructions:
 <br>
