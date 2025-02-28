@@ -1,3 +1,7 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+Instructions:
+npm install
+node server.js
+
+I used Mongo Db - remote - I added the profesor email to MongoDB to be able to view db
