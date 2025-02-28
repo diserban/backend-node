@@ -1,4 +1,4 @@
-Node.js for front-end developers # Exercise Tracker 
+#Node.js for front-end developers - Exercise Tracker 
 
 Instructions:
 <br>
